@@ -1,6 +1,3 @@
 # memory-card
-## 2
-### 3
-#### 4
-##### 5
-###### 6
+this project is not finished and is generally terrible!
+
